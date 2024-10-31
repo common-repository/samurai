@@ -1,0 +1,80 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SAMURAI plugin 1.0.8\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2021-08-05 20:13+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: nori\n"
+"Language-Team: http://wordpress.nnn2.com/?p=557\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: samurai_admin-testp.php.old.php:62 samurai_admin.php:52
+msgid "Options saved."
+msgstr "設定は保存されました。"
+
+#: samurai_admin-testp.php.old.php:83
+#: samurai_admin-testp.php.old.php:102 samurai_admin.php:73
+#: samurai_admin.php:92
+msgid "Inappropriate elements have been invalidated (commented)."
+msgstr "不適切な要素は無効化（コメント化）されました。"
+
+#: samurai_admin-testp.php.old.php:89 samurai_admin.php:79
+msgid "SAMURAI Settings"
+msgstr "SAMURAI 設定"
+
+#: samurai_admin-testp.php.old.php:107 samurai_admin.php:98
+msgid "Add"
+msgstr "追加"
+
+#: samurai_admin-testp.php.old.php:108 samurai_admin.php:99
+msgid "Delete"
+msgstr "削除"
+
+#: samurai_admin-testp.php.old.php:109 samurai_admin.php:100
+msgid "Max:"
+msgstr "登録できる件数："
+
+#: samurai_admin-testp.php.old.php:110 samurai_admin.php:101
+msgid "Display the setting contents in the comment of the post."
+msgstr "投稿のコメント内に設定内容を表示する。"
+
+#: samurai_admin-testp.php.old.php:111 samurai_admin.php:102
+msgid "Display preview in the setting."
+msgstr "設定内にプレビューを表示する。"
+
+#: samurai_admin-testp.php.old.php:113 samurai_admin.php:104
+msgid "Update Options"
+msgstr "変更を保存"
+
+#: samurai_admin-testp.php.old.php:115 samurai_admin.php:106
+msgid "Click"
+msgstr "クリック"
+
+#: samurai_admin-testp.php.old.php:115 samurai_admin.php:106
+msgid "HTML Sample"
+msgstr "HTMLサンプル"
+
+#~ msgid "Not found image file."
+#~ msgstr "画像ファイルが見つからなかった。（又は存在しない。）"
+
+#~ msgid "Display"
+#~ msgstr "表示"
+
+#~ msgid "Max"
+#~ msgstr "最大の登録件数"
